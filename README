@@ -1,6 +1,8 @@
 This is Iperf v2.0.x, a tool for measuring Internet bandwidth performance.
 See the doc directory for more documentation.
 
+sourceforge.net/projects/iperf2/
+
 Briefly:
 
 Do one-time if needed:
@@ -22,17 +24,4 @@ and to use:
 and for more information (requires make install)
   man iperf
 
-Finally, see INSTALL, doc/RELEASE_NOTES, and doc/DESIGN_NOTES for a bit more
 
-The SOURCE CODE is the AUTHORITATIVE source. Any COMMENTS found in the source ARE NOT.
-
-Copyright 1999, 2000, 2001, 2002, 2003, 2004
-The Board of Trustees of the University of Illinois
-All rights reserved
-See UI License (doc/ui_license.html) for complete details.
-
-More copyright per years 2014 - 2020
-Broadcom Corporation
-All Rights Reserved
-
-$Id: README,v 1.1.1.1 2004/05/18 01:50:44 kgibbs Exp $
